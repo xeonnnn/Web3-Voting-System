@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ae13b3b-d054-4c2c-8ba7-0e1a9a321aeb" /># 🏛️ CivicLedgerProject
+# 🏛️ CivicLedgerProject
 
 > **Blockchain-Powered Public Spending Transparency**  
 > Built for CivicLedger • Powered by Aptos • Designed for Impact
