@@ -1,4 +1,4 @@
-# 🏛️ CivicLedgerProject
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ae13b3b-d054-4c2c-8ba7-0e1a9a321aeb" /># 🏛️ CivicLedgerProject
 
 > **Blockchain-Powered Public Spending Transparency**  
 > Built for CivicLedger • Powered by Aptos • Designed for Impact
@@ -58,7 +58,11 @@
 
 ## 🚀 Setup
 
-Id - 0x39fc6c5a0a51c115cd224588b2206fdcf72bf8fa92732a2208a9e5175f519bdb
+## Id - 0x39fc6c5a0a51c115cd224588b2206fdcf72bf8fa92732a2208a9e5175f519bdb
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a0588d0-c134-4010-8d44-5573aef6b53a" />
+<img width="1851" height="952" alt="image" src="https://github.com/user-attachments/assets/7c63e116-d611-42fb-82e2-71df0aa4818e" />
+<img width="1851" height="952" alt="image" src="https://github.com/user-attachments/assets/ded59d95-4917-4aa6-bc8c-5fcbb848cb1f" />
+
 
 ```bash
 cd civicledger-ui
