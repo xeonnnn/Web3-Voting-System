@@ -8,7 +8,8 @@ import Navbar from "./components/Navbar";
 import FundChartContainer from "./components/FundChartContainer"; // ✅ updated import
 
 export default function App() {
-  const aptosAddress = "0xd6516e5440520ebea764c6ea3d085ff7d7a276244c0caf5d68ff9b10034a041e";
+  const aptosAddress =
+    "0x8c2717687c3ffe936360258323b0966cf24a45cb15bf2c038029852bb4ec1d29";
 
   return (
     <Router>
@@ -25,7 +26,9 @@ export default function App() {
 
         {/* ✅ FundFlow Tracker Section */}
         <div className="mt-10 p-6 bg-white rounded shadow max-w-3xl mx-auto">
-          <h2 className="text-2xl font-bold text-center mb-4">FundFlow Tracker</h2>
+          <h2 className="text-2xl font-bold text-center mb-4">
+            FundFlow Tracker
+          </h2>
           <FundChartContainer address={aptosAddress} />
         </div>
       </div>
