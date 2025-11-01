@@ -1,4 +1,4 @@
-address 0xd6516e5440520ebea764c6ea3d085ff7d7a276244c0caf5d68ff9b10034a041e {
+address 0x8c2717687c3ffe936360258323b0966cf24a45cb15bf2c038029852bb4ec1d29 {
     module civic_badge {
         use std::signer;
         use std::string;

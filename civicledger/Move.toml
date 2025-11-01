@@ -5,7 +5,7 @@ authors = []
 
 
 [addresses]
-civicledger = "0xd6516e5440520ebea764c6ea3d085ff7d7a276244c0caf5d68ff9b10034a041e"
+civicledger = "0x8c2717687c3ffe936360258323b0966cf24a45cb15bf2c038029852bb4ec1d29"
 
 
 
@@ -18,7 +18,3 @@ rev = "mainnet"
 subdir = "aptos-framework"
 
 [dev-dependencies]
-
-[profiles.newprofile]
-private_key = "ed25519-priv-0xc699cfca838a901dff7b2f3ea62407cda8e5e0891476b76606236d4067d4e091"
-address = "0xd6516e5440520ebea764c6ea3d085ff7d7a276244c0caf5d68ff9b10034a041e"
